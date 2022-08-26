@@ -1,3 +1,3 @@
 # SkyStorm
 An airline flight management app built using the MERN stack  
-*logo created using CorelDraw
+_*logo created using CorelDraw_
